@@ -5,6 +5,20 @@
 
 ## MSSQL
 
+### 2022-2-13
+
+增加读取文件功能：
+
+![image-20220213181226555](https://gitee.com/tboom_is_here/pic/raw/master/2021-10-21/20220213181226.png)
+
+完成两种执行命令方式
+
+![image-20220213000948591](https://gitee.com/tboom_is_here/pic/raw/master/2021-10-21/20220213000948.png)
+
+![image-20220213001019362](https://gitee.com/tboom_is_here/pic/raw/master/2021-10-21/20220213001019.png)
+
+
+
 ### 2022-2-12
 
 完成两种写shell方式
@@ -19,12 +33,7 @@
 
 ## Oracle
 
-<<<<<<< HEAD
-### 2022-1-25
-=======
 ### 2022-2-10
->>>>>>> 33bbc95fcc72afa100414d235d52fe20f60fb468
-
 完成文件上传功能
 
 ### 2022-1-23
